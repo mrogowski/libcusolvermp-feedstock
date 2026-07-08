@@ -114,4 +114,5 @@ about:
 extra:
   feedstock-name: libcusolvermp
   recipe-maintainers:
+    - mrogowski
     - conda-forge/cuda
